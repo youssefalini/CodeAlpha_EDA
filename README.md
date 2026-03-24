@@ -91,7 +91,7 @@ Two versions are provided:
 
 ## 📄 License
 
-This project is open source and available under the [MIT License](LICENSE).
+This project is open source and available under the https://github.com/youssefalini/CodeAlpha_EDA(LICENSE).
 
 ---
 
